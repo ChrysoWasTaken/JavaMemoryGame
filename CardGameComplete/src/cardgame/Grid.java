@@ -3,7 +3,7 @@ package cardgame;
 import java.util.Random;
 
 /**
- * This class contains the methods use for initializing and modifying the game arrays.
+ * This class contains the methods used for initializing and modifying the game arrays.
  * 
  * @author Tasos_Chrysopoulos
  * @author Alexandros_Adam
