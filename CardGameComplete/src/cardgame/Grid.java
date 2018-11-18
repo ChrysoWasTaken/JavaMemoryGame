@@ -50,7 +50,8 @@ public class Grid {
             if (j < repeats) {
                 gameArray[i] = c;
                 j++;
-            } else {
+            } 
+            else {
                 c++;
                 gameArray[i] = c;
                 j = 1;
